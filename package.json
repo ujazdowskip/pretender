@@ -37,7 +37,7 @@
     "sinon": "^3.2.1"
   },
   "dependencies": {
-    "fake-xml-http-request": "^2.0.0",
+    "fake-xml-http-request": "https://github.com/ujazdowskip/FakeXMLHttpRequest.git",
     "route-recognizer": "^0.3.3"
   },
   "jspm": {
